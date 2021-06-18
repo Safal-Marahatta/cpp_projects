@@ -3,7 +3,7 @@
 #include<iostream>
 
 int main(){
-  int number1=10,number2=20;
+  int number1=10,number2=30;
   int result =number1+number2;  // + operator(addition operator)
   std::cout<<"Sum is : "<<result<<std::endl;
   result =number2/number1;      // / operator(division operator)
