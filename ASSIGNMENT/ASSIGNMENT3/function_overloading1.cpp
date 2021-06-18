@@ -11,7 +11,7 @@ float b,c;
 a=add(10,20);
 b=add(5,20.5f,10);
 c=add(2,3.5f);
-cout<<"the sum are"<<a<<endl<<b<<endl<<c<<endl;
+cout<<"The sum are"<<a<<endl<<b<<endl<<c<<endl;
 return 0;
 
 }
