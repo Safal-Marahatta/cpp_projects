@@ -3,7 +3,7 @@ using namespace std;
 int main ()
 {
     int num;
-    cout <<"enter the number:"<<endl;
+    cout <<"Enter the number:"<<endl;
     cin >> num;
     if (num >= 0)
     cout << num << "The number is positive.";
