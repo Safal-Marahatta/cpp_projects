@@ -1,7 +1,7 @@
 #include<iostream>
 
 int main(){
-  int a=10,b=20;
+  int a=10,b=30;
   if(a<=10&&b>=10){
     std::cout<<"Logical AND operator"<<std::endl;
   }

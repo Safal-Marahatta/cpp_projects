@@ -3,7 +3,7 @@
 #include<iostream>
 
 int main(){
-  int a=10, b=20,c;
+  int a=10, b=30,c;
   c=(a>b);                         //> operator(greater than operator)
   std::cout<<c<<std::endl; 
   std::cout<<(a<b)<<std::endl;     //< operator(less than operator)
