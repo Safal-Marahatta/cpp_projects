@@ -1,4 +1,4 @@
-<img src="IMAGE\CONSTRUCTOR-1.jpg" alt="alt text" width="600" height="700"/>
+<img src="IMAGE\CONSTRUCTOR-1.jpg" alt="alt text" width="800" height="800"/>
 
 <img src="IMAGE/CONSTRUCTOR-2.JPG" alt="alt text"/>
 <img src="IMAGE/CONSTRUCTOR-3.JPG" alt="alt text"/>
