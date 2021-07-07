@@ -13,9 +13,8 @@ class test
     }
     test operator ++()
     {
-        test t1;
-        t1.count=count+1;
-        return t1;
+        count=count+1;
+        return *this;
     }
     void display()
     {
@@ -26,7 +25,7 @@ int main()
 {
     test t;
     t.input();
-    t=++t;
+    t=++t;//t=t.operator ++()
     t.display();
     return 0;
 }
